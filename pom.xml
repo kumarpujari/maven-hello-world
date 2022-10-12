@@ -8,6 +8,7 @@
   <name>my-app</name>
   <url>http://maven.apache.org</url>
 	<h1>hi</h1>
+	
 
   <properties>
       <!-- This property will be set by the Maven Dependency plugin -->
