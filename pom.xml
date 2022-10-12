@@ -9,6 +9,7 @@
   <url>http://maven.apache.org</url>
 	<!--demo on-->
 	
+	<!--demo on-->
 
   <properties>
       <!-- This property will be set by the Maven Dependency plugin -->
